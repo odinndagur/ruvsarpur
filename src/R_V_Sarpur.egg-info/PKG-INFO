@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: R-V-Sarpur
+Version: 12.0.2
+Summary: Python script to download shows off the Icelandic RÚV website.
+Home-page: https://github.com/odinndagur/ruvsarpur
+Author: Sverrir Sigmundarson
+Description-Content-Type: text/markdown
