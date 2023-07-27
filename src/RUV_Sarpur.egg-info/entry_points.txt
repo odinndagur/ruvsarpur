@@ -1,2 +1,3 @@
 [console_scripts]
-ruvsarpur = ruvsarpur:main
+ruvsarpur = ruvsarpur:runMain
+webvtttosrt = wvtttosrt:runMain
